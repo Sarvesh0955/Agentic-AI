@@ -1,0 +1,17 @@
+# Agentic AI Common Dependencies
+openai
+ollama
+anthropic
+google-genai
+google-adk
+langchain
+langchain-community
+langchain-core
+langgraph
+pydantic
+python-dotenv
+requests
+httpx
+fastapi
+uvicorn
+ipykernel
