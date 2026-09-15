@@ -3,6 +3,7 @@ openai
 ollama
 anthropic
 google-genai
+groq
 google-adk
 langchain
 langchain-community
